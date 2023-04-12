@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sinotrain/static/css/main.073c9b0a.css",
+    "main.js": "/sinotrain/static/js/main.d931d930.js",
+    "static/js/787.cd3380ba.chunk.js": "/sinotrain/static/js/787.cd3380ba.chunk.js",
+    "static/media/logo.svg": "/sinotrain/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sinotrain/index.html",
+    "main.073c9b0a.css.map": "/sinotrain/static/css/main.073c9b0a.css.map",
+    "main.d931d930.js.map": "/sinotrain/static/js/main.d931d930.js.map",
+    "787.cd3380ba.chunk.js.map": "/sinotrain/static/js/787.cd3380ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d931d930.js"
+  ]
+}
